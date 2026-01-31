@@ -47,7 +47,7 @@ function App() {
           {!showConfirmation ? (
             <div>
               <h1 className="text-2xl font-semibold text-gray-900 mb-6">
-                Personal Information
+                Персональная информация
               </h1>
 
               <form onSubmit={handleSave} className="space-y-5">
